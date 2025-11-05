@@ -1,4 +1,4 @@
-# [A](https://ukb-dt/b/)
+# [A](https://ukb-dt.github.io/bourdieu/)
 ## Palantir Technologies
 
 ![Image](https://media.bizj.us/view/img/11685973/palantir-svbj-002-062420%2A1200xx5061-2847-3-0.jpg)
